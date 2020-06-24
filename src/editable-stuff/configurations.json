@@ -1,0 +1,54 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Pedro",
+  "MiddleName": "",
+  "LastName": "Tashima",
+  "devDesc": "| Estudante | Gerente de projetos | Developer | Empresário Júnior | Maker ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/tashima42",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/tashima42/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/tashima42/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/pedro-t-ba419216b",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "Sobre Mim",
+  "showInstaProfilePic": false,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "xxx",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Sou um estudante de Engenharia Eletrônica, Gerente de projetos, com ênfase em gestão ágil, developer web, mobile e maker nas horas vagas.",
+  "projectHeading": "Projetos Recentes",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "tashima42",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "showNavigationbar": false,
+  "showBlog": false
+}
