@@ -22,24 +22,24 @@
 
 [![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
 
-## Table of Contents
+## Sumário
 
-- [Technology Stack 🛠️](#technology-stack-)
-- [Structure ⚓](#structure-)
-- [Sharing 💗](#sharing-)
-- [Prerequisites 🍪](#prerequisites-)
-- [Setup And Deployment 🔧](#setup-and-deployment-)
-- [Contributing 🙌](#contributing-)
-- [Issues](#issues)
-- [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
+- [Tecnologias Utilizadas 🛠️](#tecnologias-utilizadas-)
+- [Estrutura ⚓](#estrutura-)
+- [Compartilhando💗](#compartilhando-)
+- [Pré-requisitos🍪](#pré-requisitos-)
+- [Setup E Deployment 🔧](#setup-e-deployment-)
+- [Contribuindo🙌](#contribuindo-)
+- [Problemas](#problemas)
+- [Próximas Features / Melhorias 🔗](#proximas-features-/-melhorias-)
 - [Showcase 🚀](#showcase-)
 - [Versão em Português :brazil:](#versao-em-portugues-)
 - [Contributors ✨](#contributors-)
 - [License 📄](#license-)
 
-## Technology Stack 🛠️
+## Tecnologias Utilizadas 🛠️
 
-Dependencies defined in package.json:
+Dependencias definidas em package.json:
 
 [Reactjs](https://reactjs.org/)
 | [Bootstrap](https://getbootstrap.com/)
@@ -71,21 +71,21 @@ Dependencies defined in package.json:
   - Copyrights - open source
   - Acknowledgements(
 
-## Sharing 💗
+## Compartilhando 💗
 
 Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) and add resume. Mark star ⭐ if you like the project.
 
-## Prerequisites 🍪
+## Pré-requisitos🍪
 
-You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed on your PC. You should also own a GitHub account.
+Você precisa ter o[Node.js](https://nodejs.org/en/) e o  [Git](https://git-scm.com/) instalados no seu PC. Você tambem deve ter uma conta no GItHub.
 
-## Setup And Deployment 🔧
+## Setup E Deployment 🔧
 
-1. To Get Started, Fork this repository to your GitHub account:
-2. Clone the forked repo from your account using:
+1. Para começar, crie um fork deste repositório na sua conta:
+2. Clone o repositório que você acabou de fazer um fork usando:
 
    ```bash
-     git clone https://github.com/<your-username>/home.git
+     git clone https://github.com/<seu-username>/home.git
    ```
 
 3. Open in editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
@@ -101,7 +101,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
    Or for deployment at custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
 
-7. After editing run the following bash commands:
+7. Após a edição, rode os seguintes comandos bash:
 
    ```bash
    npm install
@@ -117,7 +117,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
    Or for deployment at \<username>.github.io, refer [READMEdocs/custom-deployment.md](./READMEdocs/custom-deployment.md) and [pages.js](./pages.js)
 
-9. Congrats your site is up and running. To see it live, visit:
+9. Parabéns, seu site está rodando. Para ver ele live, visite:
 
    ```https
      https://<your-username>.github.io/home
@@ -136,7 +136,7 @@ Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
 
 ## Showcase 🚀
 
-Have you changed something in the code to create your own version? Feel free to share with me, I will list them in this space.
+Você mudou algo no seu código para fazer sua própria versão? Fique a vontade para compartilhar comigo. Vou ouvir neste espaço
 
 <table>
   <tr>
@@ -251,6 +251,6 @@ Novas contribuições e revisões na tradução são muito bem vindas!
 
 This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
 
-## Stargazers over time
+## Stargazers ao longo do tempo
 
 [![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
