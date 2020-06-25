@@ -17,11 +17,10 @@ const Footer = (props) => {
         >
           Hashir Shoaib
         </a>{" "}
-        using <i className="fab fa-react" />
+        usando <i className="fab fa-react" />
         <p>
           <small className="text-muted">
-            Project code is open source. Feel free to fork and make your own
-            version.
+          O projeto é open source, fique a vontade para fazer um fork e criar sua própria versão.
           </small>
         </p>
       </Container>
