@@ -39,7 +39,7 @@
 
 ## Tecnologias Utilizadas 🛠️
 
-Dependencias definidas em package.json:
+Dependencias definidas no package.json:
 
 [Reactjs](https://reactjs.org/)
 | [Bootstrap](https://getbootstrap.com/)
