@@ -1,3 +1,4 @@
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -33,6 +34,8 @@
 - [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
 - [Showcase 🚀](#showcase-)
 - [Versão em Português :brazil:](#versao-em-portugues-)
+- [Contributors ✨](#contributors-)
+- [License 📄](#license-)
 
 ## Technology Stack 🛠️
 
@@ -188,7 +191,33 @@ Have you changed something in the code to create your own version? Feel free to 
       <br />
     </td>
   </tr>
-    <tr>
+</table>
+
+## Versão em Português :brazil:
+
+Esse projeto foi traduzido para português! Se você gostou dele e quer criar a sua própria versão, confira o repositório do [@tashima42](https://github.com/tashima42) em [https://github.com/Tashima42/home](https://github.com/Tashima42/home).
+Novas contribuições e revisões na tradução são muito bem vindas! 
+
+## Contributors ✨
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.facebook.com/hashir.shoaeb">
+        <img src="https://avatars2.githubusercontent.com/u/35165481?v=4" width="100px" alt="" />
+        <br />
+        <sub><b>Hashir Shoaib</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/iprithvitharun">
+        <img src="https://avatars2.githubusercontent.com/u/58725708?v=4" width="100px" alt="" />
+        <br />
+        <sub><b>Prithvi Tharun</b></sub>
+      </a>
+      <br />
+    </td>
     <td align="center">
       <a href="https://github.com/xunxdd/portfolio/tree/master">
         <br />
