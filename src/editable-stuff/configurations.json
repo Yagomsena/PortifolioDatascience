@@ -33,7 +33,7 @@
     }
   ],
   "aboutHeading": "Sobre Mim",
-  "showInstaProfilePic": true,
+  "showInstaProfilePic": false,
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "tashima42",
   "instaQuerry": "/?__a=1",
