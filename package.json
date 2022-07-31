@@ -3,7 +3,7 @@
   "description": "Um template de site estático pessoal/portifolio hosteado com o Github Pages, construído para mostrar meus projetos recentes",
   "homepage": "https://tashima42.github.io/home",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "author": {
     "name": "Pedro Tashima",
     "email": "pedrotashima@pm.me",
