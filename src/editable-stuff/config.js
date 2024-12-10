@@ -87,23 +87,24 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 80 },
-    { name: "SQL", value: 60 },
-    { name: "Data Structures", value: 85 },
+    ,
     { name: "statistic", value: 90 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "R", value: 90 },
+    { name: "EXEL", value: 95 },
+    { name: "SQL", value: 60 },
+    {name: "HTML/CSS", value: 55 }
+    { name: "C#", value: 50 },
+{ name: "Data Structures", value: 60 }
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Collaboration", value: 95 },
     { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Problem Solving", value: 70 },
     { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Organization", value: 60 },
+    { name: "Creativity", value: 70 }
+    { name: "Well-Informed", value: 90 }
   ],
 };
 
@@ -113,7 +114,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "If you need help in a project, or maybe have something interesting to say, please contact me at",
-  email: "pedrotashima@protonmail.com",
+  email: "umyagomsena@gmail.com",
 };
 
 const experiences = {
@@ -121,28 +122,28 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Integrations Technical Specialist - Toolbox TVE',// Here Add Company Name
-      companylogo: require('../assets/img/toolbox.png'),
+      role: 'Physics Professor - Federal University of Pampa (UNIPAMPA)',
+      companylogo: require('../assets/img/unipampa.png'), // Adicione o logo da UNIPAMPA
+      imgSize: 170,
+      date: 'March 2023 – Present',
+    },
+    {
+      role: 'Data Science Specialist - Freelance Projects',
+      companylogo: require('../assets/img/datascience.png'), // Adicione um ícone genérico para ciência de dados
       imgSize: 170,
       date: 'January 2022 – Present',
     },
     {
-      role: 'Integration Engineer - Linkapi/Semantix',// Here Add Company Name
+      role: 'Researcher - Master\'s Degree in Sciences, UNIPAMPA',
+      companylogo: require('../assets/img/unipampa.png'), // Adicione o logo da UNIPAMPA
       imgSize: 170,
-      companylogo: require('../assets/img/linkapi.png'),
-      date: 'June 2021 – January 2022',
+      date: 'March 2023 – Present',
     },
     {
-      role: 'Full Stack Developer - Guenka Software',// Here Add Company Name
+      role: 'Physics and Mathematics Teacher - High School',
+      companylogo: require('../assets/img/teaching.png'), // Adicione um ícone relacionado ao ensino
       imgSize: 170,
-      companylogo: require('../assets/img/guenka.jpeg'),
-      date: 'August 2020 – May 2021',
-    },
-    {
-      role: 'Project Manager - Solucaut',// Here Add Company Name
-      imgSize: 170,
-      companylogo: require('../assets/img/solucaut.png'),
-      date: 'July 2019 – August 2020',
+      date: 'February 2019 – February 2023',
     },
   ]
 }
@@ -153,3 +154,4 @@ const experiences = {
 // };
 
 export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
+
