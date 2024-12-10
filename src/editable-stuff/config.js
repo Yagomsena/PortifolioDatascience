@@ -6,18 +6,18 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Pedro",
+  firstName: "Yago",
   middleName: "",
-  lastName: "Tashima",
-  message: "Integrations Technical Specialist",
+  lastName: "Sena",
+  message: "Data Science Specialist",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/tashima42",
+      url: "https://github.com/Yagomsena/PortifolioDatascience/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/pedrotashima/",
+      url: "https://www.linkedin.com/in/yago-sena-4b4b31109/",
     }
   ],
 };
@@ -41,9 +41,8 @@ const about = {
   heading: "About Me",
   imageLink: "https://media-exp1.licdn.com/dms/image/C4D03AQGNHoKxrUcKOQ/profile-displayphoto-shrink_400_400/0/1653082085501?e=1665014400&v=beta&t=WbjZ3nOgdAU8v_odAep3_DWujohEOclqvOQsMbyjBLs",
   imageSize: 375,
-  message: `Hi, I'm Pedro, I'm very passionate about tech. I've been working professionally with it for over 3 years, but I've loved it my entire life! At this moment, I'm working as an Integrations Technical Specialist, I help streaming services, like Paramount+ and DirectvGO to integrate their products with Multi Service Operators and Internet Service Providers. 
-I'm also studying Software Engineering at the Federal University of Technology - Paraná, in Brazil.`,
-  resume: "https://tashima42.github.io",
+  message: `Hello, I'm Yago, deeply passionate about science, statistics, and data analysis. I've been working professionally in this field for over a year, but it's been a lifelong passion! Currently, I work as a Professor and am pursuing a Master's degree in Sciences at the Federal University of Pampa (UNIPAMPA) in Rio Grande do Sul, Brazil.`,
+  resume: "https://www.linkedin.com/in/yago-sena-4b4b31109/",
 };
 
 // PROJECTS SECTION
@@ -54,7 +53,7 @@ I'm also studying Software Engineering at the Federal University of Technology -
 const repos = {
   show: true,
   heading: "Projects",
-  gitHubUsername: "tashima42", //i.e."johnDoe12Gh"
+  gitHubUsername: "Yagomsena", //i.e."johnDoe12Gh"
   reposLength: 0,
   specificRepos: ["hash-id", "pomo", "nodejs-oauth2-server", "hash-id-js"],
 };
@@ -62,10 +61,14 @@ const repos = {
 // Leadership SECTION
 const leadership = {
   show: false,
-  heading: "Leadership",
+  heading: "Physics Professor",
   message:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
-  images: [
+"Bem-vindo ao My Data Science Portfolio
+
+Olá e bem-vindo! Sou Yago, especialista em ciência de dados e professor de física com paixão por descobrir insights por meio de dados. Minha jornada combina um profundo amor por ciência, estatística e análise com anos de experiência em educação e pesquisa.
+
+Aqui, você encontrará projetos que mostram minhas habilidades em análise de dados, visualização e resolução de problemas, juntamente com meu compromisso com o aprendizado e a inovação contínuos. Estou animado para compartilhar meu trabalho com você — sinta-se à vontade para explorar e se conectar!"
+    images: [
     {
       img: "",
       label: "First slide label",
@@ -83,10 +86,10 @@ const skills = {
   show: false,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
+    { name: "Python", value: 80 },
+    { name: "SQL", value: 60 },
     { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
+    { name: "statistic", value: 90 },
     { name: "JavaScript", value: 90 },
     { name: "React", value: 65 },
     { name: "HTML/CSS", value: 55 },
