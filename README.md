@@ -6,10 +6,10 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="[https://github.com/Yagomsena/PortifolioDatascience/]">Yagomsena/PortifolioDatascience/</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://github.com/Yagomsena/PortifolioDatascience/">About Me</a>
   </p>
 </p>
 
@@ -20,7 +20,7 @@
 [![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)]([https://github.com/Yagomsena/PortifolioDatascience/)
 
 ## Sumário
 
@@ -85,7 +85,7 @@ Você precisa ter o [Node.js](https://nodejs.org/en/) e o  [Git](https://git-scm
 2. Clone o repositório que você acabou de fazer um fork usando:
 
    ```bash
-     git clone https://github.com/<seu-username>/home.git
+    [https://github.com/Yagomsena/PortifolioDatascience/
    ```
 
 3. Open in editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
@@ -149,7 +149,7 @@ Você mudou algo no seu código para fazer sua própria versão? Fique a vontade
       <br />
     </td>
     <td align="center">
-      <a href="https://github.com/hamzasohail0/home/">
+      <a href="[https://github.com/Yagomsena/PortifolioDatascience/">
         <img src="READMEdocs/hamzasohail0-github-io-home.gif" width="300px" alt="" />
         <br />
         <sub><b>Hamza Sohail</b></sub>
@@ -170,23 +170,23 @@ Você mudou algo no seu código para fazer sua própria versão? Fique a vontade
       <a href="https://github.com/anaashrafi/home/">
         <img src="READMEdocs/anaashrafi-github-io-home.gif" width="300px" alt="" />
         <br />
-        <sub><b>Ana Ashrafi</b></sub>
+        <sub><b>YAGO SENA</b></sub>
       </a>
       <br />
     </td>
     <td align="center">
-      <a href="https://github.com/jefferyjohn/home/">
+      <a href="[https://github.com/Yagomsena/PortifolioDatascience/">
         <img src="READMEdocs/jefferyjohn-github-io-home.gif" width="300px" alt="" />
         <br />
-        <sub><b>Jeffery John</b></sub>
+        <sub><b>Yago sena </b></sub>
       </a>
       <br />
     </td>
     <td align="center">
-      <a href="https://github.com/remimestdagh/home/">
+      <a href="[https://github.com/Yagomsena/PortifolioDatascience/">
         <img src="READMEdocs/remimestdagh-github-io-home.gif" width="300px" alt="" />
         <br />
-        <sub><b>Remi Mestdagh</b></sub>
+        <sub><b>yago sena </b></sub>
       </a>
       <br />
     </td>
@@ -206,7 +206,7 @@ Novas contribuições e revisões na tradução são muito bem vindas!
       <a href="https://www.facebook.com/hashir.shoaeb">
         <img src="https://avatars2.githubusercontent.com/u/35165481?v=4" width="100px" alt="" />
         <br />
-        <sub><b>Hashir Shoaib</b></sub>
+        <sub><b>YAGO SENA </b></sub>
       </a>
       <br />
     </td>
@@ -214,14 +214,14 @@ Novas contribuições e revisões na tradução são muito bem vindas!
       <a href="https://github.com/iprithvitharun">
         <img src="https://avatars2.githubusercontent.com/u/58725708?v=4" width="100px" alt="" />
         <br />
-        <sub><b>Prithvi Tharun</b></sub>
+        <sub><b>yago sena</b></sub>
       </a>
       <br />
     </td>
     <td align="center">
       <a href="https://github.com/xunxdd/portfolio/tree/master">
         <br />
-        <sub><b>Xun Ding</b></sub>
+        <sub><b>yago sena</b></sub>
       </a>
       <br />
     </td>    
